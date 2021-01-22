@@ -1,0 +1,1 @@
+const {returnRandBase, mockUpStrand} = require("../src/mysteryOrganism");
